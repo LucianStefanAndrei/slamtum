@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>slamtum_fusion</name>
+  <version>0.0.1</version>
+  <description>Phase 5: fuses semantic labels into the SLAM map (semantic occupancy grid)</description>
+  <maintainer email="stefan.andrei.lucian.design@gmail.com">Lucian</maintainer>
+  <license>MIT</license>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
